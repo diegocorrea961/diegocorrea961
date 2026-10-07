@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi👋,+I'm+Diego+Corrêa;Software+Engineer+Student;Focused+on+web+applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi👋,+I'm+Diego+Corrêa;Software+Engineer+Student;Focused+on+full+stack+applications)](https://git.io/typing-svg)
 
 <!--
 **diegocorrea961/diegocorrea961** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
