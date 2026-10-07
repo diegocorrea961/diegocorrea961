@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi👋,+I'm+Diego+Corrêa;Software+Engineer+Student;Focused+on+Full+Stack+Applications)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=99E472&height=120&section=header" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=99E472&size=35&center=true&vCenter=true&width=1000&lines=Hi👋,+I'm+Diego+Corrêa;Software+Engineer+Student;Focused+on+Full+Stack+Applications)](https://git.io/typing-svg)
+
+<br>
 
 🚀 **Software Engineer Student**  
 🇧🇷 Brazil
