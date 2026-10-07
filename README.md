@@ -84,3 +84,4 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=99E472&height=120&section=footer" />
